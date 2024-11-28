@@ -13,7 +13,7 @@ Este proyecto automatiza la búsqueda y filtrado de productos en MercadoLibre, e
 
 ## Pasos para ejecutar el proyecto
 1. Clona este repositorio.
-2. ve a la carpeta src/main/java
+2. ve a la carpeta src/main/java/hitss/mercadolibre
 3. Ejecuta la clase `EjercicioMercadolibre`:
    
    
