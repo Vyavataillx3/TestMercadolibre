@@ -13,10 +13,7 @@ Este proyecto automatiza la búsqueda y filtrado de productos en MercadoLibre, e
 
 ## Pasos para ejecutar el proyecto
 1. Clona este repositorio.
-2. Ejecuta el siguiente comando para instalar las dependencias (si usas Maven):
-   ```bash
-   mvn clean install
-   ```
+2. ve a la carpeta src/main/java
 3. Ejecuta la clase `EjercicioMercadolibre`:
    
    
